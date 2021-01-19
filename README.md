@@ -53,7 +53,7 @@ Nossos serviços são definidos por variáveis que visam garantir a adequação 
 
 # Alguns de nossos executivos
 
-<img src="https://www.foursys.com.br/wp-content/uploads/2018/09/Site-foursys-quem-somos-rafael-ostan-1.png" width="300">
+<img src="https://user-images.githubusercontent.com/77402907/104998918-c23ecb00-5a0a-11eb-9233-7d091eaa6374.png" width="300">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-ostan-6584b323/)](https://www.linkedin.com/in/rafael-ostan-6584b323/)
 

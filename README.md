@@ -71,7 +71,8 @@ Nossos serviços são definidos por variáveis que visam garantir a adequação 
 
 # Historia da forsys
 
-<img src="https://foursys.com.br/wp-content/uploads/2018/09/Site-foursys-quem-somos-logoicone.png" width="800">
+![Site-foursys-quem-somos-logoicone](https://user-images.githubusercontent.com/77402907/105000160-c2d86100-5a0c-11eb-8370-8dfc1cbb9b76.png)
+
 
 - **2000**
     - Em 2 de março nascia a Fourys, com a missão de fornecer soluções tecnológicas inovadoras, com elevados níveis de produtividade e qualidade, criando vantagens competitivas para seus clientes.

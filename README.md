@@ -23,7 +23,7 @@ Continuamos a inovar nosso portfólio no segmento de Digital Business com servi�
 
 A Foursys tem serviços que atendem aos diferentes momentos, necessidades e desafios de seus clientes, independentemente do estágio do ciclo de vida de suas soluções ou da jornada por estas propostas ao mercado
 
-# Como são compostas as nossas ofertas ??
+# Como são compostas as nossas ofertas 
 
 <img src="https://processodevendas.com/wp-content/uploads/2019/07/interroga%C3%A7%C3%A3o.gif?rawn=true" width="500">
 
@@ -95,7 +95,7 @@ Nossos serviços são definidos por variáveis que visam garantir a adequação 
 
 # Trainee
 
-<img src="https://user-images.githubusercontent.com/77402907/104999271-5872f100-5a0b-11eb-8f12-8f1ed8183cab.png" width="1000">
+![Site-foursys-quem-somos-logoicone](https://user-images.githubusercontent.com/77402907/104999271-5872f100-5a0b-11eb-8f12-8f1ed8183cab.png)
 
 ##### Hoje a Foursys esta trabalhando com o sistema trainee, ensinando e preparando novos profissionais para o mercado de trabalho
 

@@ -57,15 +57,15 @@ Nossos serviços são definidos por variáveis que visam garantir a adequação 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-ostan-6584b323/)](https://www.linkedin.com/in/rafael-ostan-6584b323/)
 
-<img src="https://www.foursys.com.br/wp-content/uploads/2018/09/Site-foursys-quem-somos-ronaldo-rocha-1.png" width="300">
+<img src="https://user-images.githubusercontent.com/77402907/104999106-0cc04780-5a0b-11eb-83d8-fdee628c911d.png" width="300">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ronaldo-rocha-3355a930//)](https://www.linkedin.com/in/ronaldo-rocha-3355a930/)
 
-<img src="https://www.foursys.com.br/wp-content/uploads/2018/09/Site-foursys-quem-somos-manoellito-ferreira-1.png" width="300">
+<img src="https://user-images.githubusercontent.com/77402907/104999147-21044480-5a0b-11eb-95e1-9beab2d1620b.png" width="300">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manoellito-a-ferreira-84839457/)](https://www.linkedin.com/in/manoellito-a-ferreira-84839457/)
 
-<img src="https://www.foursys.com.br/wp-content/uploads/2018/09/Site-foursys-quem-somos-genivaldo-teixeira-1.png" width="300">
+<img src="https://user-images.githubusercontent.com/77402907/104999188-35e0d800-5a0b-11eb-8b7e-4d9acc01b76a.png" width="300">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geteixeira/)](https://www.linkedin.com/in/geteixeira/)
 
@@ -95,7 +95,7 @@ Nossos serviços são definidos por variáveis que visam garantir a adequação 
 
 # Trainee
 
-<img src="https://www.grupopetropolis.com.br/grpptrpls/wp-content/uploads/title-trainee-767x135.png" width="1000">
+<img src="https://user-images.githubusercontent.com/77402907/104999271-5872f100-5a0b-11eb-8f12-8f1ed8183cab.png" width="1000">
 
 ##### Hoje a Foursys esta trabalhando com o sistema trainee, ensinando e preparando novos profissionais para o mercado de trabalho
 

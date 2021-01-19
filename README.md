@@ -34,18 +34,18 @@ Nossos serviços são definidos por variáveis que visam garantir a adequação 
 
 - DESIGN CONSTRUÇÃO EVOLUÇÃO INOVAÇÃO.
 
-#### FORMAS DE ATUAÇÃO
+#### Formas de atuação
 
 ##### São regimes da entrega  ou modelos de contratação de serviços da Foursys que trazem em si o teor de temporalidade e grau de envolvimento nos estágios de um serviço.
 
 - CONSULTORIA PROJETO OUTSOURCING INSTRUMENTALIZAÇÃO ALOCAÇÃO.
-#### CONHECIMENTO APLICADO
+#### Conhecimento aplicado
 
 ##### Conjunto de Práticas, Técnicas e Tecnologias integralizados na Foursys. A Base deve ser atualizada sempre quando do surgimento de um novo conceito.
 
 - DESIGN SPRINT APIS SEA MÉTODOS ÁGEIS WATERFALL MODELAGEM TESTES.
 
-## DESAFIOS DO CLIENTE
+## Desafios do cliente
 
 ##### Intenções e tarefas que os nossos Clientes desejam realizar em relação a seus negócios. Cada momento no ciclo de vida de nossos clientes e suas soluções trazem desafios específicos.
 

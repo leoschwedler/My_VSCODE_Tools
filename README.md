@@ -96,7 +96,7 @@ Nossos serviços são definidos por variáveis que visam garantir a adequação 
 
 # Trainee
 
-![Site-foursys-quem-somos-logoicone](https://user-images.githubusercontent.com/77402907/104999271-5872f100-5a0b-11eb-8f12-8f1ed8183cab.png)
+<img src="https://www.grupopetropolis.com.br/grpptrpls/wp-content/uploads/title-trainee-767x135.png" width="800">
 
 ##### Hoje a Foursys esta trabalhando com o sistema trainee, ensinando e preparando novos profissionais para o mercado de trabalho
 

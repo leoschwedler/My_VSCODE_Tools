@@ -57,6 +57,8 @@ Nossos serviços são definidos por variáveis que visam garantir a adequação 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-ostan-6584b323/)](https://www.linkedin.com/in/rafael-ostan-6584b323/)
 
+![Site-foursys-quem-somos-rafael-ostan-1](https://user-images.githubusercontent.com/77402907/104997911-2791bc80-5a09-11eb-8a6e-23a5ce01cca0.png)
+
 <img src= "https://www.foursys.com.br/wp-content/uploads/2018/09/Site-foursys-quem-somos-ronaldo-rocha-1.png" width= "300">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ronaldo-rocha-3355a930//)](https://www.linkedin.com/in/ronaldo-rocha-3355a930/)
